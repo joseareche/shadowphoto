@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="file" path="vault" />
+    <exclude domain="database" path="shadowphoto.db" />
+    <exclude domain="sharedpref" path="shadowphoto_keystore.xml" />
+</full-backup-content>
